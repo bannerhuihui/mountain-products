@@ -7,6 +7,9 @@
     <groupId>com.mountain</groupId>
     <artifactId>mountain-products</artifactId>
     <version>1.0</version>
+    <modules>
+        <module>mp-api</module>
+    </modules>
     <!--打包方式-->
 
     <packaging>pom</packaging>
